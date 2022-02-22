@@ -1,5 +1,5 @@
 # WadCoin/FHe mBit
 
-BITCHAIN
-FHe $
+
+FHe $m
 
