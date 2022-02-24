@@ -1,5 +1,5 @@
 # WadCoin/FHe mBit
 
 
-FHe $m
+FHe $mhexo
 
